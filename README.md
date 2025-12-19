@@ -15,8 +15,7 @@ gdg-chiatura-workshop/
 ├── 01_gemini_sdk/        # Direct Gemini API usage (Gen AI SDK)
 ├── 02_tool_calling/      # Tool calling and manual agent loops
 ├── 03_rest_calls/        # Direct REST API usage (Developer API / Vertex AI)
-├── 04_adk_agent/         # Agent Development Kit (ADK)
-├── 05_adk_memory/        # ADK with memory and multi-turn agents
+├── adk_agent/            # Agent with ADK (Agent Development Kit) with Memory
 │
 ├── README.md             # Main overview (this file)
 ├── README_PART1.md       # Part 1: History of AI & ML at Google
