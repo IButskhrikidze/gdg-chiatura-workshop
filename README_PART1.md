@@ -25,6 +25,7 @@ From search ranking to modern foundation models, AI has always been central to G
 **Neural networks enter production**
 
 - 2011: **Google Brain** project launched to explore deep neural networks
+![assets/andrew-ng.jpg](assets/andrew-ng.jpg)
 - Deep learning significantly improved:
   - Speech recognition (Android, Voice Search)
   - Image recognition (Google Photos)
@@ -39,8 +40,10 @@ Deep learning moved from research labs into **real user-facing products**.
 **Modern AI takes shape**
 
 - DeepMind’s **AlphaGo** defeated the world champion in Go (2016)
+![assets/alpha-go.png](assets/alpha-go.png)
 - 2017: Google researchers introduced the **Transformer architecture**  
   - Foundation of modern NLP and large language models
+![assets/transformer.png](assets/transformer.png)
 - Google released **BERT**, dramatically improving search query understanding
 - TensorFlow matured into one of the most widely used ML frameworks
 
@@ -53,7 +56,9 @@ Deep learning moved from research labs into **real user-facing products**.
 **From experts to everyone**
 
 - Launch of **AutoML** tools to reduce ML entry barriers
+![assets/ml-workflow.png](assets/ml-workflow.png)
 - Expansion of **Tensor Processing Units (TPUs)** for faster training and inference
+![assets/Google-Colab.jpg](assets/Google-Colab.jpg)
 - Growth of ML services on **Google Cloud**:
   - Vision, Speech, Translation APIs
   - Managed ML pipelines
