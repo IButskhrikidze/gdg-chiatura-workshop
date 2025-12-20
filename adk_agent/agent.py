@@ -1,6 +1,9 @@
+import dotenv
 from tools.convert_currency import convert_currency
 
 from google.adk.agents import Agent
+
+dotenv.load_dotenv()
 
 root_agent = Agent(
     name="currency_agent",
